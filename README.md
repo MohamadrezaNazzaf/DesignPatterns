@@ -14,8 +14,6 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 
 ***
 
-<sub>Check out my [other project](http://roadmap.sh) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
-
 <br>
 
 |[Creational Design Patterns](#creational-design-patterns)|[Structural Design Patterns](#structural-design-patterns)|[Behavioral Design Patterns](#behavioral-design-patterns)|
